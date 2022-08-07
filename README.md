@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **anandkodical/anandkodical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### - I'm an automation tester.
+#### - Bachelors's in Computer Application graduate.
+#### - 🌱 I’m currently learning and practicing Selenium Automation testing.
