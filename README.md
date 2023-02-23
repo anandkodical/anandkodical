@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 #### - I'm an automation tester.
 #### - Bachelors's in Computer Application graduate.
-#### - 🌱 I’m currently learning and practicing Selenium Automation testing.
+#### - 🌱 I’m experienced manual tester with 3+ years of experience.
+#### - I have orked in product and project based companies.
+#### - I completed Automation testing course with Java- Selenium and completed my projects.
+#### - Experienced in Sanity testing, Regression testing, Exploratory testing, Smoke testing, UI testing.
+#### - Knowledge in Jira for bug reporting and Postman tool for API testing.
+
