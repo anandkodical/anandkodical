@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 #### - Experienced in Sanity testing, Regression testing, Exploratory testing, Smoke testing, UI testing.
 #### - Knowledge in Jira for bug reporting and Postman tool for API testing.
 #### - Basic knowledge in MySQL and Linux commands.
+#### - Learning java selenium automation testing.
 
 
