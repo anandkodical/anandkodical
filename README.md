@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 #### - Knowledge in Jira for bug reporting and Postman tool for API testing.
 #### - Basic knowledge in MySQL and Linux commands.
 #### - Learning java selenium automation testing.
+#### - Started manual project on my company website.
 
 
